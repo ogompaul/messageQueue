@@ -20,7 +20,7 @@ void flagDisplay(char *input, FILE *file, int argc);
  int main(int argc, char *argv[1])
  {
  
-  printf("------------------------------------------------\n------------------------------------------------ \n OS Lab3 Task 3.1\n By: Patrick Chimeudeonwo  \n     Hazlet Mwangi Gathigia \n ------------------------------------------------\n------------------------------------------------ \n \n");
+  printf("------------------------------------------------\n------------------------------------------------ \n OS Lab3 Task 3.1\n By: Patrick Chimeudeonwo \n ------------------------------------------------\n------------------------------------------------ \n \n");
  
   sigset_t set;
   struct sigaction act;
