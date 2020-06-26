@@ -19,7 +19,7 @@ struct msg_Object{
 int main()
 {
  /*Course details*/
- printf("----------------------------------------\n 	-----------------------------------------	\n Name: Message Queue\n Authors: Patrick Chimeudeonwo\n          Hazo\n Version: Lab3.2.b\n Description: This program reads a text from the queue and dispays the content\n");
+ printf("----------------------------------------\n 	-----------------------------------------	\n Name: Message Queue\n Author: Patrick Chimeudeonwo\n     Version: Lab3.2.b\n Description: This program reads a text from the queue and dispays the content\n");
 
  int running = 1;
  struct msg_Object message;
