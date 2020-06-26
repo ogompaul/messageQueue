@@ -33,7 +33,7 @@ int main()
  }
  
  /*Course details*/
- printf("----------------------------------------\n 	-----------------------------------------	\n Name: Message Queue\n Authors: Patrick Chimeudeonwo\n  Version: Lab3.2.a\n Descripttion: This program send a text to a queue and wait for it to be read\n");
+ printf("----------------------------------------\n 	-----------------------------------------	\n Name: Message Queue\n Author: Patrick Chimeudeonwo\n  Version: Lab3.2.a\n Descripttion: This program send a text to a queue and wait for it to be read\n");
  
  while(running)
  {
